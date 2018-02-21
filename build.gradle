@@ -5,6 +5,8 @@ apply plugin: 'java'
 
 sourceCompatibility = 1.8
 
+mainClass="com.gurgrew.notmainshutup.itscalledmain"
+
 repositories {
     mavenCentral()
 }
